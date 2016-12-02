@@ -2,6 +2,7 @@ h1 {
 background-color: yellow;
 color: black;
 font-size: 50px;
+width: 600px;
 font-family: 'Gloria Hallelujah', cursive;
 border: 2px solid green;
 }
